@@ -22,12 +22,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Dream-Works-kg&show_icons=true&theme=radical"/>
-</p>
-
----
 
 ### 🏆 Достижения на GitHub
 <p align="center">
