@@ -24,8 +24,8 @@
 
 ### 📊 Статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dream-Works-kg&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-Works-kg&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dream-Works-Kg&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dream-Works-Kg&layout=compact&theme=radical"/>
 </p>
 
 ---
