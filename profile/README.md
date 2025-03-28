@@ -21,15 +21,6 @@
 </p>
 
 ---
-
-
-### 🏆 Достижения на GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dream-Works-kg&theme=radical&margin-w=15"/>
-</p>
-
----
-
 ### 📬 Контакты
 - 📧 Email: info@dreamworks.kg
 - 🌐 Веб-сайт: [dreamworks.kg](https://dreamworks.kg)
