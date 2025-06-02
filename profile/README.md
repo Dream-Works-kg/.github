@@ -23,7 +23,7 @@
 ---
 ### 📬 Контакты
 - 📧 Email: dreamwokskg@gmail.com
-- 🌐 Веб-сайт: [dreamworks.kg]([taplink.cc/dream.devs](https://taplink.cc/dream.devs))
+- 🌐 Веб-сайт: [dream.devs]([taplink.cc/dream.devs](https://taplink.cc/dream.devs))
 - 📱 Instagram: [@dreamworks_kg](https://www.instagram.com/dream.devs/)
 - 🐦 Telegram: [@KadirovM79](https://t.me/KadirovM79)
 
